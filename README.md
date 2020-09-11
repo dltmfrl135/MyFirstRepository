@@ -7,3 +7,5 @@
   3. ~~세번째~~
   
 Hello my name is Seulki
+
+<img width="" height="" src="./PNG/dog.jpg"></img>
