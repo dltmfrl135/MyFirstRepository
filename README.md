@@ -1,11 +1,7 @@
-# MyFirstRepository
-## 중간제목
-  [dltmfrl135](https://github.com/dltmfrl135/MyFirstRepository "dltmfrl135")
-### 작은제목
-  1. _첫번째_
-  2. __두번째__
-  3. ~~세번째~~
-  
-Hello my name is Seulki
+# 18237001 이슬기
 
-<img width="" height="" src="./PNG/dog.jpg"></img>
+## 1주차 과제
+
+## 2주차 과제
+
+## 3주차 과제 
